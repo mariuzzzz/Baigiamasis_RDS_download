@@ -1,0 +1,10 @@
+C:\Users\mlasys\Source\Repos\mariuzzzz\Baigiamasis_RDS_download\rds_ataskaitos\bin\Debug\rds_ataskaitos.exe.config
+C:\Users\mlasys\Source\Repos\mariuzzzz\Baigiamasis_RDS_download\rds_ataskaitos\bin\Debug\rds_ataskaitos.exe
+C:\Users\mlasys\Source\Repos\mariuzzzz\Baigiamasis_RDS_download\rds_ataskaitos\bin\Debug\rds_ataskaitos.pdb
+C:\Users\mlasys\Source\Repos\mariuzzzz\Baigiamasis_RDS_download\rds_ataskaitos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mlasys\Source\Repos\mariuzzzz\Baigiamasis_RDS_download\rds_ataskaitos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mlasys\Source\Repos\mariuzzzz\Baigiamasis_RDS_download\rds_ataskaitos\obj\Debug\rds_ataskaitos.csprojAssemblyReference.cache
+C:\Users\mlasys\Source\Repos\mariuzzzz\Baigiamasis_RDS_download\rds_ataskaitos\obj\Debug\rds_ataskaitos.csproj.CoreCompileInputs.cache
+C:\Users\mlasys\Source\Repos\mariuzzzz\Baigiamasis_RDS_download\rds_ataskaitos\obj\Debug\rds_ataskaitos.csproj.CopyComplete
+C:\Users\mlasys\Source\Repos\mariuzzzz\Baigiamasis_RDS_download\rds_ataskaitos\obj\Debug\rds_ataskaitos.exe
+C:\Users\mlasys\Source\Repos\mariuzzzz\Baigiamasis_RDS_download\rds_ataskaitos\obj\Debug\rds_ataskaitos.pdb
